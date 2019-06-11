@@ -1,3 +1,7 @@
+## Modified by Sarah
+
+6/11. Starting to work through this tutorial to get a feel for IBM's Carbon Design System.
+
 ## Carbon Tutorial
 
 This tutorial will guide you in creating a React app with the [Carbon Design System](https://www.carbondesignsystem.com/). We’ll teach you the ins and outs of using Carbon components, while introducing web development best practices along the way.
